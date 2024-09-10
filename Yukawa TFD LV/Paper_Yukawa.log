@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.3)  9 SEP 2024 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.3)  10 SEP 2024 09:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1012,51 +1012,51 @@ Overfull \vbox (11.32117pt too high) has occurred while \output is active []
 
 [1{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./orcid.png
 >] [2] [3] [4] [5]
-<diagrams.png, id=245, 1176.395pt x 464.73625pt>
+<diagrams.png, id=234, 1176.395pt x 464.73625pt>
 File: diagrams.png Graphic file (type png)
 <use diagrams.png>
 Package pdftex.def Info: diagrams.png  used on input line 260.
 (pdftex.def)             Requested size: 352.92123pt x 139.42194pt.
  [6] [7 <./diagrams.png (PNG copy)>]
-<scattering_scheme.png, id=273, 845.0772pt x 369.7815pt>
+<scattering_scheme.png, id=262, 845.0772pt x 369.7815pt>
 File: scattering_scheme.png Graphic file (type png)
 <use scattering_scheme.png>
 Package pdftex.def Info: scattering_scheme.png  used on input line 307.
 (pdftex.def)             Requested size: 234.0pt x 102.3927pt.
  [8 <./scattering_scheme.png>] [9] [10] [11] [12] [13]
-<LIThermalPotential.png, id=358, 462.528pt x 346.896pt>
+<LIThermalPotential.png, id=347, 462.528pt x 346.896pt>
 File: LIThermalPotential.png Graphic file (type png)
 <use LIThermalPotential.png>
 Package pdftex.def Info: LIThermalPotential.png  used on input line 535.
 (pdftex.def)             Requested size: 280.80286pt x 210.61111pt.
  [14]
-<LV2DPotential1.png, id=378, 462.528pt x 346.896pt>
+<LV2DPotential1.png, id=367, 462.528pt x 346.896pt>
 File: LV2DPotential1.png Graphic file (type png)
 <use LV2DPotential1.png>
 Package pdftex.def Info: LV2DPotential1.png  used on input line 556.
 (pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
-<LV2DPotential2.png, id=379, 462.528pt x 346.896pt>
+<LV2DPotential2.png, id=368, 462.528pt x 346.896pt>
 File: LV2DPotential2.png Graphic file (type png)
 <use LV2DPotential2.png>
 Package pdftex.def Info: LV2DPotential2.png  used on input line 557.
 (pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
-<LV2DPotential3.png, id=380, 462.528pt x 346.896pt>
+<LV2DPotential3.png, id=369, 462.528pt x 346.896pt>
 File: LV2DPotential3.png Graphic file (type png)
 <use LV2DPotential3.png>
 Package pdftex.def Info: LV2DPotential3.png  used on input line 558.
 (pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
-<LV2DPotential4.png, id=381, 462.528pt x 346.896pt>
+<LV2DPotential4.png, id=370, 462.528pt x 346.896pt>
 File: LV2DPotential4.png Graphic file (type png)
 <use LV2DPotential4.png>
 Package pdftex.def Info: LV2DPotential4.png  used on input line 559.
 (pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
  [15 <./LIThermalPotential.png>]
-<LV1DPotential.png, id=399, 462.528pt x 346.896pt>
+<LV1DPotential.png, id=388, 462.528pt x 346.896pt>
 File: LV1DPotential.png Graphic file (type png)
 <use LV1DPotential.png>
 Package pdftex.def Info: LV1DPotential.png  used on input line 580.
 (pdftex.def)             Requested size: 187.19714pt x 140.39682pt.
-<ThermalLV1DPotential.png, id=400, 462.528pt x 346.896pt>
+<ThermalLV1DPotential.png, id=389, 462.528pt x 346.896pt>
 File: ThermalLV1DPotential.png Graphic file (type png)
 <use ThermalLV1DPotential.png>
 Package pdftex.def Info: ThermalLV1DPotential.png  used on input line 581.
@@ -1074,13 +1074,13 @@ Package rerunfilecheck Info: File `Paper_Yukawa.out' has not changed.
 (rerunfilecheck)             Checksum: 9651E4DD9514761C622F4D4DC15E145E;3006.
  ) 
 Here is how much of TeX's memory you used:
- 25962 strings out of 473899
- 473084 string characters out of 5726973
+ 25966 strings out of 473899
+ 473361 string characters out of 5726973
  1966960 words of memory out of 5000000
- 48167 multiletter control sequences out of 15000+600000
+ 48170 multiletter control sequences out of 15000+600000
  582668 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,101p,1562b,743s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,13n,101p,1562b,733s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0
 900.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 ecbx1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
@@ -1113,9 +1113,9 @@ sy8.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/symbols/msam10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/symbols/msbm10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/symbols/msbm5.pfb>
-Output written on Paper_Yukawa.pdf (20 pages, 1171107 bytes).
+Output written on Paper_Yukawa.pdf (20 pages, 1170510 bytes).
 PDF statistics:
- 978 PDF objects out of 1000 (max. 8388607)
- 174 named destinations out of 1000 (max. 500000)
+ 975 PDF objects out of 1000 (max. 8388607)
+ 175 named destinations out of 1000 (max. 500000)
  199 words of extra memory for PDF output out of 10000 (max. 10000000)
 
