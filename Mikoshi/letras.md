@@ -1,0 +1,1 @@
+minhas letras, por enquanto, estão muito simples. Preciso ampliar meu vocabulário. Para isso preciso continuar escrevendo e buscar informações de outros artistas.
