@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "estética.md",
+                "file": "Cyberpunk.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "estética.md",
+                "file": "Cyberpunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "estética.md",
+                "file": "Cyberpunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "estética.md"
+                "file": "Cyberpunk.md"
               }
             }
           }
@@ -161,15 +161,16 @@
   },
   "active": "81390cc81863e2bc",
   "lastOpenFiles": [
-    "1 música.md",
     "estética.md",
-    "letras.md",
+    "Cyberpunk.md",
     "artistas.md",
+    "1 música.md",
+    "física/Eletromagnetismo.md",
+    "física/Mecânica Estatística.md",
+    "física/Mecânica Quântica.md",
+    "letras.md",
     "física/1 física.md",
     "música",
-    "física/Mecânica Quântica.md",
-    "física/Mecânica Estatística.md",
-    "física/Eletromagnetismo.md",
     "física",
     "Objetivos de vida.md",
     "Main codex/Responsabilidades/Aonde posso melhorar.md",

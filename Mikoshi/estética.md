@@ -1,4 +1,5 @@
 Estéticas que costumam chamar muito minha atenção são:
-- Cyberpunk
+- [[Cyberpunk]]
 - Night Ride
 - Synth
+- Mad Max

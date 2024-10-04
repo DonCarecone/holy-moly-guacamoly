@@ -1,0 +1,9 @@
+Estética futuristica de uma humanidade que alcançou o mais alto nível de tecnologia. Mas isso não significa que todos tem acesso à ela. As grandes corporações dominam toda a economia e usa as tecnologias pro seu próprio lucro. A vida high tech low life está escancarada neste contexto, onde pessoas de baixas classes sociais não tem acesso aos serviços, pois aqui apenas aqueles que tem dinheiro consegue pagar as coisas simples. 
+
+Uma sociedade distópica onde o crime das cidades baixas dominam todo aquele setor. Hackers estão constantemente tentando obter informações. E as drogas, hoje puramente sintéticas, dominam as ruas.
+
+Visualmente, os universos cyberpunk são retratados, de maneira errônea, como um reflexo direto das cidades orientais, onde os neons e telões com alta intensidade de luz dominam. As logos das marcas famosas, bem como das corporações dominam as paisagens. Os prédios de tamanhos inimagináveis bloqueiam qualquer interesse em se observar o céu. A densidade populacional faz com que seja impossível obter um local decente para morar. Apenas aqueles com dinheiro tem acesso a educação, saúde e qualidade de vida.
+
+Aqui conhecemos Gyro, um garoto pardo, de corte baixo, de estrutura alta. Gostava de cultura hip hop, frequentava uma escola média/baixa e tinha como hobby fazer música. Gyro morava com sua vó, perdeu os pais cedo. Sua vó era tranquila e cuidava muito bem do adolescente.
+
+Ele ainda era jovem demais, ambicioso, e queria ter uma vida rica igual os patrões do alto. Porém, ele sabia que, nessa sociedade, estudar não ajudaria nada. Apenas garantiria que ele sobrevivesse.
